@@ -1,4 +1,4 @@
-插值搜尋法(Interpolation Search)
+🍇 插值搜尋法(Interpolation Search)
 值搜尋法(Interpolation search)是假設資料呈線性相關分布，利用斜率公式來計算猜測搜尋鍵值的位置。搜尋方式與二分搜尋相同。
 留言
 回想一下剛剛二元搜尋法，假設我們今天有一陣列如下，並且要搜尋 1 ：
